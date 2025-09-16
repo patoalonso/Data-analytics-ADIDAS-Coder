@@ -1,5 +1,5 @@
-Readme - Proyecto Power Bi (adidas) - Alonso Castillo Patricia
-Proyecto Power BI — Adidas (2025)
+Proyecto Power Bi (adidas) - Alonso Castillo Patricia
+Año 2024
 
 Breve reporte interactivo orientado a análisis de ventas/stock/tienda (placeholder), construido en Power BI Desktop. Este repositorio incluye el artefacto del reporte y documentación para reproducirlo o visualizarlo.
 
