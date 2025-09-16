@@ -22,3 +22,6 @@ Explicar y monitorear indicadores clave de desempeño (KPIs) del negocio Adidas,
 - **Mapa** por región/tienda y **barras** por categoría/canal.
 - **Tarjetas KPI** (Ventas, Unidades, Margen %) y **Top N** productos/tiendas.
 
+  ## 📥 **Acceso al reporte**
+- [Descargar reporte (.PBIX)](./PROYECTO%20FINAL%20ADIDAS%20ALONSO%20PATRICIA%20%281%29.pbix)
+
