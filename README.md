@@ -18,15 +18,7 @@ Explicar y monitorear indicadores clave de desempeño (KPIs) del negocio Adidas,
 - **Rentabilidad**: **margen bruto** y **margen %**; top/bottom productos/tiendas.
 
 ### **Visualizaciones clave**
+- **Serie temporal** de ventas y unidades con comparación interanual.
+- **Mapa** por región/tienda y **barras** por categoría/canal.
+- **Tarjetas KPI** (Ventas, Unidades, Margen %) y **Top N** productos/tiendas.
 
-Ventas: total, YoY/YoY %, ticket promedio.
-
-Unidades: vendidas y por categoría (calzado, indumentaria, accesorios…).
-
-Margen: bruto y %.
-
-Inventario: cobertura (días), rotación.
-
-Mapa: rendimiento por región/tienda.
-
-Segmentación: por canal (online/offline), promociones, etc.
